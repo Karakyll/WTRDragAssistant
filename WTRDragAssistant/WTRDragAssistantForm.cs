@@ -48,7 +48,7 @@ namespace WTRDragAssistant
                 textBoxRightCarNumber.ReadOnly = true;
                 buttonCancel.Visible = true;
                 buttonStartChekIn.Enabled = false;
-                blueToothConnection.Test();
+                //blueToothConnection.Test();
             }      
         }
 
