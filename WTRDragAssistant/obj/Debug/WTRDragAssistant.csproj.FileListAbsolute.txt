@@ -1,0 +1,10 @@
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\bin\Debug\WTRDragAssistant.exe.config
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\obj\Debug\WTRDragAssistant.Properties.Resources.resources
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\obj\Debug\WTRDragAssistant.csproj.GenerateResource.Cache
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\bin\Debug\WTRDragAssistant.exe
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\bin\Debug\WTRDragAssistant.pdb
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\obj\Debug\WTRDragAssistant.exe
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\obj\Debug\WTRDragAssistant.pdb
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\obj\Debug\WTRDragAssistant.csprojResolveAssemblyReference.cache
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\obj\Debug\WTRDragAssistant.PortNameRequest.resources
+c:\users\user-pc\documents\visual studio 2015\Projects\WTRDragAssistant\WTRDragAssistant\obj\Debug\WTRDragAssistant.WTRDragAssistantForm.resources

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Races xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CheckIn dateTime="2017-07-08T21:11:48.3583431+03:00">
+    <leftCar reregistrationPlate="1234 hg-1" reactionTime="0.117" elapsedTime="14.756" />
+    <rightCar reregistrationPlate="1235 aw-2" reactionTime="0.243" elapsedTime="14.381" />
+  </CheckIn>
+  <CheckIn dateTime="2017-07-08T21:12:06.66029+03:00">
+    <leftCar reregistrationPlate="7564 dc-2" reactionTime="0.117" elapsedTime="14.756" />
+    <rightCar reregistrationPlate="6873 gh-5" reactionTime="0.243" elapsedTime="14.381" />
+  </CheckIn>
+  <CheckIn dateTime="2017-07-08T21:12:46.0863522+03:00">
+    <leftCar reregistrationPlate="9999 lj-4" reactionTime="0.117" elapsedTime="14.756" />
+    <rightCar reregistrationPlate="8888 lk-3" reactionTime="0.243" elapsedTime="14.381" />
+  </CheckIn>
+</Races>
